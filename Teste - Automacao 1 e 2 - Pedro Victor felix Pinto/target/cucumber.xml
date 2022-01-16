@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="102.348">
+    <testcase classname="Teste" name="Cesar - Print informations" time="101.737">
+        <system-out><![CDATA[Given that I access page of "https://www.cesar.school/".....................passed
+When click at "Blog"........................................................passed
+And I go to the second page.................................................passed
+Then print date and title of second publication.............................passed
+And acess the third publication.............................................passed
+Then print title and author.................................................passed
+And scroll to end of page...................................................passed
+And print cesar school address..............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
